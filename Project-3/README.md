@@ -10,13 +10,6 @@ A brief one-line description of what this project does and its primary objective
 - [Tech Stack](#tech-stack)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Sample Output](#sample-output)
-- [Future Improvements](#future-improvements)
-- [Contributing](#contributing)
-- [License](#license)
-- [Author](#author)
-
 ---
 
 ## 📝 Overview
@@ -62,7 +55,7 @@ project-3/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Sk-Mehebub-Ali/Ardent_ML_Internship.git
+git clone https://github.com/Sanjoymanna2004/Ardent_ML_Internship.git
 
 Navigate to the project directory:
 cd project-3.ipynb
